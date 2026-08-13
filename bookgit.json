@@ -1,110 +1,1483 @@
 {
   "version": 1,
-  "exported_at": "2026-08-13T01:34:31.843Z",
+  "exported_at": "2026-08-13T01:35:02.850Z",
   "roots": {
     "root0": {
-      "title": "书签栏"
-    },
-    "root1": {
-      "title": "其他书签"
-    },
-    "root2": {
-      "title": "移动设备书签",
+      "title": "收藏夹栏",
       "children": [
         {
-          "title": "account.kdocs.cn/passport/singlesign?cb=https%3A%2F%2Fwww.kdocs.cn%2Fl%2FcpNmJ40UmMEy&appid=375024576&f=c",
-          "url": "https://www.kdocs.cn/l/cpNmJ40UmMEy"
-        },
-        {
-          "title": "反算贷款利率计算器2024 反推反算房贷利率计算器 - 贷款计算器2024年最新版",
-          "url": "http://www.daikuanjisuanqi.cc/jisuanqi/getrate.aspx"
-        },
-        {
-          "title": "DJI 大疆学堂",
-          "url": "https://app-h5.dji.com/ZGppLWdvLT/index.html#/"
-        },
-        {
-          "title": "围炉Go - 游戏怀旧灌水，风渡平生友",
-          "url": "https://www.wlgooo.com/"
-        },
-        {
-          "title": "电影",
-          "url": "https://docs.qq.com/sheet/DSnlGR3JnQUxwZ05k?tab=BB08J2"
-        },
-        {
-          "title": "iSlide官网- 让PPT设计简单起来 | PPT模板工具|插件下载平台",
-          "url": "https://www.islide.cc/"
-        },
-        {
-          "title": "资源分享平台",
-          "url": "https://app-b4zl7jsund35.appmiaoda.com/?q=%E8%BF%BD%E6%81%B6&tag=262403e0-10da-464b-857d-93b55bd69305"
-        },
-        {
-          "title": "小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario",
-          "url": "https://www.yikm.net/"
-        },
-        {
-          "title": "速影TV - 免费快速在线电影网",
-          "url": "https://91suying.com/"
-        },
-        {
-          "title": "少数派 - 高效工作，品质生活",
-          "url": "https://sspai.com/"
-        },
-        {
-          "title": "Topbook | 高效生活视频书",
-          "url": "https://topbook.cc/overview"
-        },
-        {
-          "title": "无解搜_全球最全的垂直搜索引擎网站",
-          "url": "http://wujiesou.com/"
-        },
-        {
-          "title": "动作库 - Quicker",
-          "url": "https://getquicker.net/Share"
-        },
-        {
-          "title": "全网视频VIP解析、免费在线观看 - 牛逼VIP解析",
-          "url": "http://www.nbvip.cc/"
-        },
-        {
-          "title": "War3TeD_War3TeD直播间259057_魔兽争霸直播_斗鱼 - 每个人的直播平台",
-          "url": "https://www.douyu.com/88170?dyshid=0-4485acf44a1174e60379c80f00051701&dyshci=55"
-        },
-        {
-          "title": "quicker",
+          "title": "常用直达",
           "children": [
             {
-              "title": "星云影院-最新高清电影-电视剧免费在线观看",
-              "url": "http://g.yikezhuji.com/"
+              "title": "待整理",
+              "children": [
+                {
+                  "title": "ycoda|亿可达- 无代码应用数据集成连接自动化平台",
+                  "url": "https://ycoda.com/"
+                },
+                {
+                  "title": "键盘按键测试工具 - 土薯在线工具Toolshu.com",
+                  "url": "https://toolshu.com/keyboard"
+                },
+                {
+                  "title": "在线英语日期翻译器",
+                  "url": "http://date.5adanci.com/"
+                },
+                {
+                  "title": "Raycast - Your shortcut to everything",
+                  "url": "https://www.raycast.com/?via=yy"
+                },
+                {
+                  "title": "秀米编辑器官网_微信公众号图文编辑和H5制作 - 秀米XIUMI",
+                  "url": "https://xiumi.us/#/"
+                },
+                {
+                  "title": "公众号",
+                  "url": "https://mp.weixin.qq.com/"
+                },
+                {
+                  "title": "马克喵_获取最新MAC破解软件",
+                  "url": "https://www.macat.vip/"
+                },
+                {
+                  "title": "苹果系统Mac软件及FCPX插件-CG资源网",
+                  "url": "https://www.cgzy.net/mac"
+                },
+                {
+                  "title": "花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）",
+                  "url": "https://huaban.com/"
+                },
+                {
+                  "title": "",
+                  "url": "https://chat.deepseek.com/"
+                },
+                {
+                  "title": "",
+                  "url": "https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2F%2301%E3%80%90%E5%B7%A5%E4%BD%9C-%E5%AD%98%E5%82%A8%E3%80%91%2F%E3%80%90%E4%BB%8A%E6%97%A5%E5%B7%A5%E4%BD%9C%E3%80%91"
+                },
+                {
+                  "title": "",
+                  "url": "https://www.bilibili.com/"
+                },
+                {
+                  "title": "",
+                  "url": "https://filehelper.weixin.qq.com/?from=windows&type=recommend"
+                },
+                {
+                  "title": "",
+                  "url": "https://www.58pic.com/"
+                },
+                {
+                  "title": "百度图片",
+                  "url": "https://image.baidu.com/"
+                },
+                {
+                  "title": "",
+                  "url": "https://www.998877.com.cn/"
+                }
+              ]
             },
             {
-              "title": "天狼影院-2023手机影视大全,免费电影网,高清MP4影院",
-              "url": "https://www.jiujusz.com/"
+              "title": "quicker",
+              "children": [
+                {
+                  "title": "同应用切换 - by 彭嘉旭 - 动作信息 - Quicker",
+                  "url": "https://getquicker.net/Sharedaction?code=fe58f65d-cffe-49c8-3987-08d97dc8fa09"
+                },
+                {
+                  "title": "动作 - Adobe Photoshop - - Quicker",
+                  "url": "https://getquicker.net/Exe/33/Actions?exeId=33&tag=&filter=%E6%96%87%E5%AD%97"
+                },
+                {
+                  "title": "下载记录",
+                  "url": "chrome://downloads/"
+                }
+              ]
             },
             {
-              "title": "磁力熊 - 豆瓣高分电影1080P下载",
-              "url": "https://www.cilixiong.pro/?ref=tools.voidke.com"
+              "title": "────────常用区─────────",
+              "url": "https://separator.site/folder"
             },
             {
-              "title": "AKB影院_最新电视剧在线观看_热门电视剧_好看的电视剧大全",
-              "url": "https://www.akb.cc/"
+              "title": "抖音",
+              "url": "https://www.douyin.com/?recommend=1"
             },
             {
-              "title": "PlainProxies.com - Free Web Proxy",
-              "url": "https://plainproxies.com/resources/free-web-proxy"
+              "title": "抖音创作者中心",
+              "url": "https://creator.douyin.com/creator-micro/home"
             },
             {
-              "title": "书籍检索",
-              "url": "http://121.43.104.123/ssbooks/"
+              "title": "直播服务平台",
+              "url": "https://liveservice.douyin.com/"
+            },
+            {
+              "title": "抖音来客",
+              "url": "https://life.douyin.com/p/home?groupid=1792924645472474&life_biz_view_id=22&life_account_biz_ids="
+            },
+            {
+              "title": "百度",
+              "url": "https://www.baidu.com/"
+            },
+            {
+              "title": "WPS 365",
+              "url": "https://www.kdocs.cn/latest"
+            },
+            {
+              "title": "豆包",
+              "url": "https://www.doubao.com/chat/?channel=baidu_pz&source=dbweb_baidu_pz_pc_logo_title&keywordid=weizhi1"
+            },
+            {
+              "title": "小黑",
+              "url": "https://www.omnibox.pro/RELmdt/chat"
+            },
+            {
+              "title": "腾讯文档",
+              "url": "https://docs.qq.com/desktop/"
+            },
+            {
+              "title": "三顿新标签页",
+              "url": "https://tab.sandunppt.com/"
+            },
+            {
+              "title": "阅流-资源-全部资源",
+              "url": "https://yueliu.cn/v20/#/media/all"
+            },
+            {
+              "title": "百度翻译",
+              "url": "https://fanyi.baidu.com/mtpe-individual/multimodal#/"
+            },
+            {
+              "title": "‌‌​​‬​‍​​​‌​⁠⁠‍‬⁠​​​⁠‬‌⁠​‍‬‬​​​‌‌‍​‍​​‍⁠‬​​​‬​‬​​﻿工作灵感箱 - 飞书云文档",
+              "url": "https://my.feishu.cn/base/IEVGbES9Ca8gCcsNg7tcRZarnuN?table=tblSimNh66gX6wHq&view=vewlamUCoo"
+            },
+            {
+              "title": "新榜——新媒体，找新榜",
+              "url": "https://www.newrank.cn/?source=200&unit=pinpaiweihu&keyword=xinbang&e_keywordid=679435434527&e_keywordid2=679435434527&bd_vid=8124149864906182489"
+            },
+            {
+              "title": "开源项目与油猴脚本中文站 - 浏览 GitHub 仓库、浏览器扩展与脚本下载 | GitHub 中文版",
+              "url": "https://bdnb.cn/"
+            },
+            {
+              "title": "扩展",
+              "url": "edge://extensions/"
             }
           ]
         },
         {
-          "title": "在线观看盒子里的猫 第20240526期_大陆综艺-努努影院",
-          "url": "https://www.longdiwang.com/news/zongyi102272-1-40.html"
+          "title": "Tool",
+          "children": [
+            {
+              "title": ">>done",
+              "children": [
+                {
+                  "title": "浏览器插件安装-阅流-阅流采集插件",
+                  "url": "https://yueliu.cn/collection"
+                }
+              ]
+            },
+            {
+              "title": ">>add",
+              "children": [
+                {
+                  "title": "设计",
+                  "children": [
+                    {
+                      "title": "",
+                      "url": "https://www.nipic.com/"
+                    },
+                    {
+                      "title": "配色网站",
+                      "url": "https://gradients.app/zh"
+                    },
+                    {
+                      "title": "",
+                      "url": "https://zihunziku.com/"
+                    },
+                    {
+                      "title": "",
+                      "url": "https://www.hellofont.cn/home"
+                    },
+                    {
+                      "title": "求字体网",
+                      "url": "https://www.qiuziti.com/"
+                    },
+                    {
+                      "title": "",
+                      "url": "https://ifonts.com/"
+                    },
+                    {
+                      "title": "Pixabay",
+                      "url": "https://pixabay.com/zh/illustrations/search/?cat=travel22&order=popular3221125"
+                    },
+                    {
+                      "title": "爱给",
+                      "url": "https://www.aigei.com/?wd=%E7%BB%99%E7%88%B1%E7%BD%91&bd_vid=7190124516777584404"
+                    }
+                  ]
+                },
+                {
+                  "title": "抖音运营工具",
+                  "children": [
+                    {
+                      "title": "抖音安全与信任中心",
+                      "url": "https://95152.douyin.com/"
+                    },
+                    {
+                      "title": "飞瓜数据-抖音电商与直播大数据分析平台-feigua.cn",
+                      "url": "https://dy.feigua.cn/?chl=feigua2"
+                    },
+                    {
+                      "title": "考拉新媒体导航——新媒体人的专属门户网站",
+                      "url": "https://www.kaolamedia.com/#%E6%96%B0%E5%AA%92%E4%BD%93%E5%86%85%E5%AE%B9%E5%B7%A5%E5%85%B7"
+                    },
+                    {
+                      "title": "抖音运营 | COONAV电商运营导航",
+                      "url": "https://www.coonav.com/favorites/douyinyunying"
+                    },
+                    {
+                      "title": "新抖—短视频及直播数据工具",
+                      "url": "https://xd.newrank.cn/home?type=1077&source=10000&l=ys_xd-banner_top_xd"
+                    },
+                    {
+                      "title": "新榜——新媒体，找新榜",
+                      "url": "https://www.newrank.cn/"
+                    },
+                    {
+                      "title": "熊猫下载助手",
+                      "url": "http://xiongmaoxiazai.com/"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": ">>tag",
+              "children": [
+                {
+                  "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
+                  "url": "https://www.52pojie.cn/"
+                },
+                {
+                  "title": "Mac中文-Mac软件应用程序免费下载",
+                  "url": "https://www.maczh.com/"
+                },
+                {
+                  "title": "appstorrent - игры и программы для macOS",
+                  "url": "https://appstorrent.ru/"
+                },
+                {
+                  "title": "精品MAC应用分享",
+                  "url": "https://xclient.info/"
+                },
+                {
+                  "title": "AE模板_照片穿梭标题_科技片头_AE模板下载_编号:24374849_光厂(VJ师网) www.vjshi.com",
+                  "url": "https://www.vjshi.com/watch/24374849.html?from=search&fwd=%E7%A7%91%E6%8A%80%20%E5%BC%80%E5%A4%B4"
+                },
+                {
+                  "title": "前后对比视频素材下载, 前后对比AE模板下载_光厂(VJ师网)",
+                  "url": "https://www.vjshi.com/search?st=&wd=%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94"
+                },
+                {
+                  "title": "新片场 - 与百万创作人一起成长，用作品打动世界",
+                  "url": "https://www.xinpianchang.com/"
+                },
+                {
+                  "title": "像素云 - 简简单单的分享",
+                  "url": "https://xiangsuyun.com/"
+                },
+                {
+                  "title": "首页-芳迪云旗舰店-天猫Tmall.com",
+                  "url": "https://fangdiyun.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.1b822e8dLcDTOW&user_number_id=2212419928930"
+                },
+                {
+                  "title": "首页-大众脸影视后期特效-淘宝网",
+                  "url": "https://lookae.taobao.com/"
+                },
+                {
+                  "title": "LookAE.com-大众脸影视后期特效",
+                  "url": "https://www.lookae.com/"
+                },
+                {
+                  "title": "猫啃网，免费商用字体，广州市海锋网络科技有限公司",
+                  "url": "https://www.maoken.com/"
+                },
+                {
+                  "title": "猫啃网字体版本更新记录-猫啃网",
+                  "url": "https://www.maoken.com/update"
+                },
+                {
+                  "title": "爱听音乐网(2t58.Com)音乐下载|Mp3歌曲免费下载|DJ舞曲|免费音乐网|歌词下载",
+                  "url": "https://www.2t58.com/"
+                },
+                {
+                  "title": "音效网-音效素材-声音素材-音效下载-配音素材-背景音乐素材-音笑网",
+                  "url": "https://www.yisell.com/"
+                },
+                {
+                  "title": "胶卷的声音mp3下载,免费的胶卷音效素材大全-51音效",
+                  "url": "https://51yinxiao.com/soundeffects/search?q=%E8%83%B6%E5%8D%B7"
+                },
+                {
+                  "title": "黑罐头: 一站式素材共享平台",
+                  "url": "https://www.heycan.com/home"
+                },
+                {
+                  "title": "Mixkit - Awesome free assets for your next video project",
+                  "url": "https://mixkit.co/"
+                },
+                {
+                  "title": "Freesound",
+                  "url": "https://freesound.org/"
+                },
+                {
+                  "title": "音效下载、音效素材免费下载、音效网_站长素材",
+                  "url": "https://sc.chinaz.com/yinxiao/"
+                },
+                {
+                  "title": "极简插件官网_Chrome插件下载_Chrome浏览器应用商店",
+                  "url": "https://chrome.zzzmh.cn/"
+                },
+                {
+                  "title": "Download Free App Store Icons for Designers and Developers | appicons.co",
+                  "url": "https://appicons.co/"
+                },
+                {
+                  "title": "iconfont-阿里巴巴矢量图标库",
+                  "url": "https://www.iconfont.cn/"
+                },
+                {
+                  "title": "PanSearch | 网盘资源搜索 | 网盘搜索引擎",
+                  "url": "https://www.pansearch.me/?ref=pidoutv.com"
+                },
+                {
+                  "title": "易搜-强大的网盘搜索引擎|百度|阿里|夸克",
+                  "url": "https://yiso.work/"
+                },
+                {
+                  "title": "哦游Max-属于iOS玩家的网站",
+                  "url": "https://oyoumax.com/"
+                },
+                {
+                  "title": "大眼仔",
+                  "url": "https://www.dayanzai.me/"
+                },
+                {
+                  "title": "cdr插件ymxkdoc",
+                  "url": "http://www.ymxkdoc.cn/"
+                }
+              ]
+            },
+            {
+              "title": "公众号管理 | 公众号文章导出",
+              "url": "https://down.mptext.top/dashboard/account"
+            },
+            {
+              "title": "书签栏添加分隔符 Bookmark Separator Pro",
+              "url": "https://separator.site/"
+            },
+            {
+              "title": "【专业导航】映技派 |#AI导航",
+              "url": "https://www.yjpoo.com/"
+            },
+            {
+              "title": "【AI工具】扣子 |#工作流",
+              "url": "https://www.coze.cn/"
+            },
+            {
+              "title": "Mail.td - 开发者邮件测试平台与 API",
+              "url": "https://mail.td/"
+            },
+            {
+              "title": "在线网页版PS, 免费专业的全功能图片处理工具",
+              "url": "https://www.tugaigai.com/online_ps/"
+            },
+            {
+              "title": "果核剥壳 - 互联网的净土",
+              "url": "https://www.ghxi.com/"
+            },
+            {
+              "title": "图片处理",
+              "children": [
+                {
+                  "title": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+                  "url": "https://www.remove.bg/zh"
+                },
+                {
+                  "title": "消除或者替换图像背景，无需上传图像 - BgSub",
+                  "url": "https://bgsub.cn/"
+                },
+                {
+                  "title": "佐糖 - 在线图片处理工具_在线抠图_证件照换底色_去水印_照片修复",
+                  "url": "https://picwish.cn/"
+                },
+                {
+                  "title": "免费在线图片编辑器 - 在线抠图、改图、修图、美图 - PhotoKit.com",
+                  "url": "https://photokit.com/?lang=zh"
+                },
+                {
+                  "title": "抠抠图-抠图软件免费在线AI抠图",
+                  "url": "https://www.koukoutu.com/"
+                }
+              ]
+            },
+            {
+              "title": "信息处理",
+              "children": [
+                {
+                  "title": "【云笔记】印象笔记 - 效率工具的瑞士军刀",
+                  "url": "https://www.yinxiang.com/"
+                }
+              ]
+            },
+            {
+              "title": "【下载抖音】适用于任何网站的快速视频下载器 - DataTool.vip",
+              "url": "https://www.datatool.vip/"
+            },
+            {
+              "title": "用户中心 - 鲜艺",
+              "url": "https://94xy.com/user?subscribe=aierase"
+            },
+            {
+              "title": "免费AI视频高清画质修复工具在线-视频无损放大|麻雀AI视频修复（无需注册）",
+              "url": "https://maquevideo.cn/"
+            },
+            {
+              "title": "Automa: No-Code AI Automation & Agentic AI Platform | AI Agents + RPA Workflows",
+              "url": "https://www.goautoma.com/"
+            },
+            {
+              "title": "RaiDrive - 像 USB 驱动器一样安装云存储",
+              "url": "https://www.raidrive.com/zh-Hans/?state=nfPhuEwIp%252B0Dn3hdmmUPbN3woGCJ6wdA3aVSFLDFOwQjl8dKNTMPwnzL3HgwBh2AbKranapxur8NwhiYxK%252BlrxkXl9FAXFsJAoNY%252Bcn6pI790hsT8Ogc3HMofTtQN5K94MBl8zWKfbb%252FIWormu2ddeJRm%252BsUHr3JUnEpC2PHdbIy0Kxq0SesO1Sis2DRnt5uPY1Zl1Pk3XAAQfoQcgN%252BEXUX2OP2S82Nx6o1UOQ%252Fm8%252BJL4Wn6xT7FX%252BVGSD6WzY%252Fh8U0fXlkHvRN89HyZVF%252B6SoD18ctKhOqr1dJFfm8CbH%252B9UK3Em%252FDyzN0Plgrso5tOUPeg%252F%252BUJtJl7btGozVP6UNa%252FHDPd359LFTq8nehI7UkvnW1n%252FI9CGQHKxEMCT5imlu%252B9S82ZUTn4mLQ93O0NoFu8DzVFb9ccrIf52iDkzjFtP%252FLPOVtZ78CSxVYP83Ow7yaN3F5fjbPt7ZJq7Ef%252FEL5SoQUUXcE61LLSxEqxOdL34t1DTrfwD7xhpe19TN1QpQl3uq7t9fRmgT7%252Bwsv8IRmINTpJtHlkxgaSaNewCL%252FRYLjlaBRbq817%252F%252BzXBA0bvdJXDl5wGoUegs21gNJJ8dPspqqHNi8uChsfCXbbesZg8XbRlAMUh%252BuL9acz5zt%252F1Hx6Pc4Grb0P%252BK%252BUUKXtgPqJZ31y53HZuePL0lVgAIYqaNxjbie40SdeMFBcRcIZGUSTcK4fF63itoqKoK1Hw%253D%253D"
+            }
+          ]
+        },
+        {
+          "title": "info",
+          "children": [
+            {
+              "title": "导航网站",
+              "children": [
+                {
+                  "title": "【导航-资源-免费】小众技术工具库",
+                  "url": "https://www.xiaozhongjishu.com/"
+                },
+                {
+                  "title": "刘明野的工具箱 - 提供好用、易用的工具，还在不断添加中，欢迎访问！",
+                  "url": "https://tools.liumingye.cn/"
+                }
+              ]
+            },
+            {
+              "title": "插件小屋 - Chrome插件,谷歌浏览器扩展下载,Chrome应用商店,离线安装包下载,crx扩展安装",
+              "url": "https://www.chajianxw.com/"
+            },
+            {
+              "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+              "url": "https://github.com/"
+            },
+            {
+              "title": "AtomGit - 全球开发者的开源社区,开源代码托管平台",
+              "url": "https://gitcode.com/"
+            },
+            {
+              "title": "精选设计导航-必备设计网站大全-千图网",
+              "url": "https://hao.58pic.com/"
+            },
+            {
+              "title": "【美工救星】PS插件列表 - 哔哩哔哩",
+              "url": "https://www.bilibili.com/opus/834567847056244738"
+            },
+            {
+              "title": "【素材下载-地图】标准地图服务系统",
+              "url": "http://bzdt.ch.mnr.gov.cn/index.html"
+            },
+            {
+              "title": "祭伟健个人-云数据",
+              "children": [
+                {
+                  "title": "祭伟健-账号密码本",
+                  "url": "https://www.kdocs.cn/l/cqTBegmIVqq5?R=L1MvMQ=="
+                }
+              ]
+            },
+            {
+              "title": "草谷博客",
+              "url": "https://icaogu.cn/"
+            },
+            {
+              "title": "下载高手使用手册",
+              "url": "https://www.yuque.com/jingkai1998/xzgs?sourceType=other&suid=3a99761a-47f5-490d-88ae-dcb67b0d1d2f&ut_sk=1.Y9u99vMjuosDAPKB5Osls9Qx_21646297_1783412183347.Copy.windvane&sm=e45243"
+            },
+            {
+              "title": "资源大全Pro2026",
+              "url": "https://www.kdocs.cn/l/cnT07x5NBE78"
+            },
+            {
+              "title": "【2025版本下载】 适配Win10/11 版本号22H2及以上系统",
+              "url": "https://www.yuque.com/cntidea/lu3664/vm4ghl29e8xlygki"
+            },
+            {
+              "title": "‍‌​​​​‬​​​⁠‌​‍⁠​​﻿​​​‬​‍⁠‌​‌​‍‍‌​​‬‌‌​‬‌‍​‍​​​​‍﻿‍CDR之家 - 飞书云文档",
+              "url": "https://my.feishu.cn/docx/Js0kdIizuolW13xs6tgcQ4Qenwg"
+            },
+            {
+              "title": "Docs",
+              "url": "https://my.feishu.cn/wiki/JilTwc9x3i7syfkeAm6c59Ggnhe"
+            },
+            {
+              "title": "光厂VJshi-VJ师网-正版视频素材-AE特效素材-Pr模板-C4D模型",
+              "url": "https://www.vjshi.com/?auction_id=2300-bd&utm_source=baidu&utm_medium=cpc&utm_campaign=auction&utm_term=2300&utm_content=qitaci&bd_vid=11156102953631491231"
+            },
+            {
+              "title": "高清素材 | GA",
+              "url": "https://ga.nasuyun.com/video"
+            },
+            {
+              "title": "潮点视频_版权高清视频素材下载网站-正版可商用",
+              "url": "https://shipin520.com/"
+            },
+            {
+              "title": "爱给网_音效配乐_3D模型_视频素材_免费下载",
+              "url": "https://www.aigei.com/?wd=%E7%88%B1%E7%BB%99%E7%BD%91%E7%BD%91%E7%AB%99&bd_vid=8196884427269055324"
+            }
+          ]
+        },
+        {
+          "title": "work",
+          "children": [
+            {
+              "title": "超级个体",
+              "children": [
+                {
+                  "title": "智慧SaaS商户管理后台",
+                  "url": "https://www.wei.gg/mdcweb/#/"
+                },
+                {
+                  "title": "商户后台管理",
+                  "url": "https://pay.wei.gg/shopmanage/Index_index"
+                },
+                {
+                  "title": "PPT接单结算后台-牛人设计 - 管理后台",
+                  "url": "https://logo.niurensheji.cn/admin/mp/login.html"
+                }
+              ]
+            },
+            {
+              "title": "税务",
+              "children": [
+                {
+                  "title": "国家税务总局电子税务局",
+                  "url": "https://etax.yunnan.chinatax.gov.cn/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "life",
+          "children": [
+            {
+              "title": "娱乐类视频",
+              "children": [
+                {
+                  "title": "【正片】宋方金×罗永浩！故事必须有人讲下去_哔哩哔哩_bilibili",
+                  "url": "https://www.bilibili.com/video/BV1ogWqzCEQu/?spm_id_from=333.337.search-card.all.click&vd_source=3b0d99ceffc5eef294391c5dd6c6bf39"
+                },
+                {
+                  "title": "【视频平台-直播-NBA】人人体育",
+                  "url": "https://rrty656.com/?agent=4&app=lqxiaozhong"
+                }
+              ]
+            },
+            {
+              "title": "免费资源",
+              "children": [
+                {
+                  "title": "【影视资源-免费网盘】网盘资源库【每日更新】",
+                  "url": "https://www.kdocs.cn/l/cpNmJ40UmMEy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "",
+          "url": "https://separator.site/dot-black-1768733155096"
+        },
+        {
+          "title": "AI",
+          "children": [
+            {
+              "title": "Dreamina: Create realistic talking avatars with AI avatar generator",
+              "url": "https://dreamina.capcut.com/ai-tool/home/"
+            },
+            {
+              "title": "AI派导航网站 - 首页",
+              "url": "https://www.aipie.top/home"
+            },
+            {
+              "title": "智能体Mall（dfc508080f78db03）",
+              "url": "https://ai.jufai.cn/"
+            },
+            {
+              "title": "RunningHub",
+              "url": "https://www.runninghub.cn/workspace"
+            },
+            {
+              "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+              "url": "https://www.liblib.art/"
+            },
+            {
+              "title": "通义 - 你的实用AI助手",
+              "url": "https://www.tongyi.com/qianwen/"
+            },
+            {
+              "title": "FieldShortcut - 发现强大的 AI 字段捷径",
+              "url": "https://fieldshortcut.com/zh"
+            },
+            {
+              "title": "【AI做图|AI做视频】即梦",
+              "url": "https://jimeng.jianying.com/ai-tool/home/?account_id=3498129050&ad_platform_id=360_search_lead&utm_campaign=ppc&utm_medium=360pc&utm_source=sem&a_keywordid=65685648112&ug_ad_level_3_id=9782392472&ug_ad_level_2_id=570235048&ug_ad_level_1_id=2126624905&ug_device=pc&ug_semver=v1.0.0&qhclickid=033c6f823940cabc"
+            },
+            {
+              "title": "美图设计室LivePPT",
+              "url": "https://www.designkit.cn/ppt/?channel=bdaiyy4&query=AIPPT%E6%8F%92%E4%BB%B6"
+            },
+            {
+              "title": "语音合成",
+              "children": [
+                {
+                  "title": "【语音合成-额度免费-千问推荐】ElevenLabs（需科学）",
+                  "url": "https://elevenlabs.io/"
+                }
+              ]
+            },
+            {
+              "title": "DeepSeek | 深度求索",
+              "url": "https://www.deepseek.com/"
+            }
+          ]
+        },
+        {
+          "title": "PPT",
+          "children": [
+            {
+              "title": "锐普PPT - 专注高端PPT设计与培训",
+              "url": "https://www.rapidesign.cn/"
+            },
+            {
+              "title": "导航",
+              "children": [
+                {
+                  "title": "三顿PPT导航 - PPT设计导航 | PPT模版等资源免费下载",
+                  "url": "https://www.sandunppt.com/"
+                }
+              ]
+            },
+            {
+              "title": "插件",
+              "children": [
+                {
+                  "title": "【PPT插件】不坑小站 —— 不坑老师资源入口",
+                  "url": "https://www.44886.com/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "今日工作",
+          "children": [
+            {
+              "title": ">>done",
+              "children": [
+                {
+                  "title": "代运营工作",
+                  "children": [
+                    {
+                      "title": "汽车工作",
+                      "children": [
+                        {
+                          "title": "抖音创作",
+                          "url": "https://ccntr8dj1q61.feishu.cn/wiki/WBRDwJbJnimvh0k7grOc5upXn2d?table=ldxueeIHB1TqR9Mv"
+                        },
+                        {
+                          "title": "抖音企业号商家管理后台线索版",
+                          "url": "https://leads.cluerich.com/pc/growth/home"
+                        },
+                        {
+                          "title": "抖音来客",
+                          "url": "https://life.douyin.com/p/login"
+                        },
+                        {
+                          "title": "巨量引擎工作台",
+                          "url": "https://business.oceanengine.com/brand/index"
+                        },
+                        {
+                          "title": "抖音灵机·直播数据平台",
+                          "url": "https://livedata.douyin.com/open/lf-cdn-tos.bytescm.com"
+                        },
+                        {
+                          "title": "抖音生活服务生意经",
+                          "url": "https://www.life-data.cn/?groupid=1828085603016083&channel_id=laike_data_first_menu"
+                        },
+                        {
+                          "title": "抖店",
+                          "url": "https://fxg.jinritemai.com/ffa/mshop/homepage/index"
+                        },
+                        {
+                          "title": "SONAX中国官方网站",
+                          "url": "http://www.sonaxchina.com/"
+                        },
+                        {
+                          "title": "海螺社 - 一站式短视频创作营销解决方案",
+                          "url": "https://www.hailuoshe.com/"
+                        },
+                        {
+                          "title": "聊天窗口",
+                          "url": "https://life.douyin.com/cs/web/?accountId=1828085603016083&conGroupId=4615984&groupId=1828085603016083&lifeAccountId=7487837707020863499"
+                        },
+                        {
+                          "title": "美团开店宝",
+                          "url": "https://e.dianping.com/app/merchant-platform/fe6031ae4f544c4?iUrl=Ly9lLmRpYW5waW5nLmNvbS9hcHAvbWVyY2hhbnQtd29ya2JlbmNoL2luZGV4Lmh0bWwjLw"
+                        },
+                        {
+                          "title": "火山引擎控制台",
+                          "url": "https://console.volcengine.com/home"
+                        },
+                        {
+                          "title": "‌‍⁤⁣‌⁢⁡‍​‌⁡​⁣​‍‌⁡﻿﻿‍﻿⁤⁤⁡⁤​⁤‬​⁤​​﻿​﻿‌﻿​​⁢‍‍​⁤⁣﻿⁤​​﻿AI 图片理解(豆包) 字段捷径 密钥获取指南 - 飞书云文档",
+                          "url": "https://bytedance.larkoffice.com/docx/AfSFdeAm8okdUbxBIpVcjoqSnAg"
+                        },
+                        {
+                          "title": "巨量本地推",
+                          "url": "https://localads.chengzijianzhan.cn/lamp/pc/home?advid=1828267234691306&from=lifepc&is_new_connect=0&is_new_user=0&utm_campaign=home-promotion-center&utm_medium=laike-pc&utm_source=benditui-origin-entrance"
+                        },
+                        {
+                          "title": "洗车工艺大全表",
+                          "url": "https://www.kdocs.cn/l/cs912vsorFmC?from=docs&reqtype=kdocs&startTime=1744600933234"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "勇林家具厂",
+                      "children": [
+                        {
+                          "title": "对标账号们",
+                          "children": [
+                            {
+                              "title": "做家具的美霖姐的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAAlUOokwjYP_FS8kWYshzA9dGF3SXx2E_JosAgbbH-LzQ?modal_id=7518769702135500091"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "今日工作",
+                          "children": [
+                            {
+                              "title": "‍‌‬⁢​⁡⁡​⁡‌﻿⁣​⁡⁤﻿⁢﻿⁢​﻿​​‌⁣⁣⁡‬⁣​﻿⁢⁤​‍‬‌⁣⁡⁡⁣‍⁢‍‍‬‬⁤﻿‬拍摄脚本 - 飞书云文档",
+                              "url": "https://e63wg2hfat.feishu.cn/slides/ZHzEsaZbolQ6ARdYYvkcecCcnze"
+                            },
+                            {
+                              "title": "‬﻿‍﻿‍​⁣⁢⁡⁡⁣‬﻿​‍‌‬‍‌⁢‬‌‌⁢‌⁢⁢‍⁤﻿⁣‌⁡‬⁤​‍⁢﻿⁤‍‍‍⁡﻿‬‬⁢⁣勇林-拍摄脚本 - 飞书云文档",
+                              "url": "https://e63wg2hfat.feishu.cn/sheets/VkWAszZVhhPqvits0FOckuADnEb?sheet=4QmJFg"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "视频号助手",
+                          "url": "https://channels.weixin.qq.com/platform/"
+                        },
+                        {
+                          "title": "轻抖",
+                          "url": "https://www.qingdou.vip/pctool/work-benches"
+                        },
+                        {
+                          "title": "‌​‌​‬⁢⁢​﻿⁣⁡​​⁣​⁤﻿⁡⁣⁤⁣⁣⁢⁤⁣‍‍​﻿⁤‌‌﻿⁡⁢‍​​⁣⁣⁡⁤‌‌‍‌﻿﻿‍‍勇林家具厂基础资料 - 飞书云文档",
+                          "url": "https://e63wg2hfat.feishu.cn/docx/X8hOduB1Oo4V3CxMYAOcgtUGntd"
+                        },
+                        {
+                          "title": "抖音企业号商家管理后台线索版",
+                          "url": "https://leads.cluerich.com/pc/auth/login"
+                        },
+                        {
+                          "title": "巨量引擎工作台",
+                          "url": "https://business.oceanengine.com/site/account-center/account/security/level"
+                        },
+                        {
+                          "title": "聚合搜索 - 轻抖短视频创作工具",
+                          "url": "https://www.qingdou.vip/pctool/aggregate-search?isReloadReq=1"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "臻韵号",
+                      "children": [
+                        {
+                          "title": "对标账号",
+                          "children": [
+                            {
+                              "title": "美丽说茶的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAAcl_dSL9D-BUeLmm7qIPYRbDzer0_Jp2gx45R1gEtFkfUp2qgBGZ1-Rn4jn8sT5s7"
+                            },
+                            {
+                              "title": "图爷说茶的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAA_uv7Mb6rA12b9k_Y6gl2qb9kP1aaWgW4qSIy4X378dc"
+                            },
+                            {
+                              "title": "云南老罗的茶（普洱茶）的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAAXdPCOK5YVCaDcnUFsfr7r2aC16Bxzvh8rAmP88KY5J8"
+                            },
+                            {
+                              "title": "茶园世家普洱茶的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAA6Vp57vJt_R64pCdHRr_m-xjDxCPTaPfFU0IPdr9FmFiHGWLB4pfZ5xc7grK-yNNh"
+                            },
+                            {
+                              "title": "君君茶叶的抖音 - 抖音",
+                              "url": "https://www.douyin.com/user/MS4wLjABAAAAUIupOVPM82LEuRq13HkunemHzJlJSpe-RAY6acJ1zkWxPklo1Nq8OQ5od5AdtaUn?from_tab_name=main"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "一次胜利",
+          "children": [
+            {
+              "title": "已成功",
+              "children": [
+                {
+                  "title": "安装PPT插件",
+                  "children": [
+                    {
+                      "title": "MotionGo官网_原PPT动画插件口袋动画_免费商用PPT插件",
+                      "url": "https://motion.yoo-ai.com/"
+                    },
+                    {
+                      "title": "iSlide官网- 让PPT设计简单起来 | PPT模板工具|插件下载平台",
+                      "url": "https://www.islide.cc/"
+                    },
+                    {
+                      "title": "PPT效率库插件",
+                      "url": "https://www.pptlib.com/"
+                    }
+                  ]
+                },
+                {
+                  "title": "QK动作寻找",
+                  "children": [
+                    {
+                      "title": "鼠标快捷触发24种动作 - by 啊喔额ABC - 动作信息 - Quicker",
+                      "url": "https://getquicker.net/Sharedaction?code=bb0f22fb-8aa0-4fe0-e25a-08d8ee7df081"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alist被卖？openlist开源网盘挂载工具平替，本地挂载百度/夸克/123网盘 Windows部署教程，精神续作_哔哩哔哩_bilibili",
+              "url": "https://www.bilibili.com/video/BV1eyuBzuEkm/?spm_id_from=333.337.search-card.all.click&vd_source=8c2188875cca12b9d05a2be055e950e4"
+            },
+            {
+              "title": "Pinmark — 智能 Chrome 书签管理器",
+              "url": "https://pinmark.01mvp.com/"
+            }
+          ]
+        },
+        {
+          "title": "临时收藏",
+          "children": [
+            {
+              "title": ">>add",
+              "children": [
+                {
+                  "title": "马住的网页",
+                  "children": [
+                    {
+                      "title": "Keyboard Maestro简介 | Keyboard Maestro中文手册",
+                      "url": "https://km.qxpai.cn/"
+                    },
+                    {
+                      "title": "影视飓风-达芬奇剪辑笔记合集（附演示截图） - 飞书云文档",
+                      "url": "https://xxj2nlm2xx.feishu.cn/docx/DQUqduKPQotEe5xZXKQczUgenod"
+                    },
+                    {
+                      "title": "【干货】一小时上手达芬奇剪辑！第三集：添加效果与关键帧_哔哩哔哩_bilibili",
+                      "url": "https://www.bilibili.com/video/BV1s7411F7JV/?spm_id_from=pageDriver&vd_source=8c2188875cca12b9d05a2be055e950e4"
+                    },
+                    {
+                      "title": "工作台-考古加数据",
+                      "url": "https://www.kaogujia.com/workbench"
+                    },
+                    {
+                      "title": "OpenEmu - Multiple Video Game System",
+                      "url": "http://openemu.org/"
+                    },
+                    {
+                      "title": "Decrypt IPA Store",
+                      "url": "https://decrypt.day/"
+                    },
+                    {
+                      "title": "【干货】一小时上手达芬奇剪辑！第一集：入门简介_哔哩哔哩_bilibili",
+                      "url": "https://www.bilibili.com/video/BV1B7411A7M1/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=8c2188875cca12b9d05a2be055e950e4"
+                    },
+                    {
+                      "title": "抖音生活服务-学习中心",
+                      "url": "https://lifexue.com/course/detail/7336028836495366246/667320?enter_method=grow_column&is_new_connect=0&is_new_user=0&source="
+                    },
+                    {
+                      "title": "模型服务计费--火山方舟大模型服务平台-火山引擎",
+                      "url": "https://www.volcengine.com/docs/82379/1099320"
+                    },
+                    {
+                      "title": "QSpace Pro for Mac v5.3.4 中文破解版 多窗格文件管理 效率神器_马克喵",
+                      "url": "https://www.macat.vip/9506.html"
+                    }
+                  ]
+                },
+                {
+                  "title": "各种文件夹",
+                  "children": [
+                    {
+                      "title": "地图",
+                      "children": [
+                        {
+                          "title": "高德地图",
+                          "url": "https://www.amap.com/"
+                        },
+                        {
+                          "title": "易制地图",
+                          "url": "https://www.makeamap.cn/"
+                        },
+                        {
+                          "title": "百度地图",
+                          "url": "https://map.baidu.com/@11158418,2935786,13z"
+                        },
+                        {
+                          "title": "标准地图服务系统",
+                          "url": "http://bzdt.ch.mnr.gov.cn/"
+                        },
+                        {
+                          "title": "高德开放平台 | 高德地图API",
+                          "url": "https://lbs.amap.com/"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "影视资源、学习",
+                      "children": [
+                        {
+                          "title": "影视飓风",
+                          "url": "https://www.ysjf.com/index"
+                        },
+                        {
+                          "title": "闪电分镜官网",
+                          "url": "https://www.mediastory.cc/#/"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "娱乐",
+                      "children": [
+                        {
+                          "title": "AKB影院_最新电视剧在线观看_热门电视剧_好看的电视剧大全",
+                          "url": "https://www.akb.cc/"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "飞书",
+                      "children": [
+                        {
+                          "title": "主页 - 飞书云文档",
+                          "url": "https://e63wg2hfat.feishu.cn/drive/home/"
+                        },
+                        {
+                          "title": "多维表格函数词典",
+                          "url": "https://www.feishu.cn/hc/zh-CN/articles/687638790379-%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%E5%87%BD%E6%95%B0%E8%AF%8D%E5%85%B8"
+                        },
+                        {
+                          "title": "多维表格学习测试 - 飞书云文档",
+                          "url": "https://e63wg2hfat.feishu.cn/drive/folder/Tl2Zf3QZ0l1gS0dDInac0veQnQh"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "线上运营",
+                      "children": [
+                        {
+                          "title": "抖音热点宝 - 首页",
+                          "url": "https://douhot.douyin.com/welcome"
+                        },
+                        {
+                          "title": "抖音企业号商家管理后台",
+                          "url": "https://e.douyin.com/site/douyin-mp/home"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "游戏",
+                      "children": [
+                        {
+                          "title": "掌机迷_中古掌机游戏网站_GBA, PSP, NDS, SFC, FC, MD, 街机, GB, GBC",
+                          "url": "https://www.gbarom.cn/"
+                        },
+                        {
+                          "title": "老男人游戏网 | OldmanTVG.net",
+                          "url": "https://www.oldmantvg.net/"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "杂七杂八",
+                      "children": [
+                        {
+                          "title": "樊登读书",
+                          "url": "https://cms.dushu365.com/index/login"
+                        },
+                        {
+                          "title": "樊登读书",
+                          "url": "https://qidu.dushu365.com/admin/login"
+                        },
+                        {
+                          "title": "微信读书",
+                          "url": "https://weread.qq.com/"
+                        },
+                        {
+                          "title": "抖音",
+                          "url": "https://www.douyin.com/"
+                        },
+                        {
+                          "title": "京东",
+                          "url": "https://www.jd.com/"
+                        },
+                        {
+                          "title": "PPT接单结算系统 - 登录",
+                          "url": "http://order.51hunban.com/#/login"
+                        },
+                        {
+                          "title": "Greasy Fork - 安全且实用的用户脚本站",
+                          "url": "https://greasyfork.org/zh-CN"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "新媒派 | 新媒体运营,自媒体营销人员都在用的万能运营工具导航!",
+                      "url": "https://pidoutv.com/"
+                    },
+                    {
+                      "title": "追剧",
+                      "children": [
+                        {
+                          "title": "【karabiner】mac的改键软件，提升200%工作效率_哔哩哔哩_bilibili",
+                          "url": "https://www.bilibili.com/video/BV1K5411A7yY/?vd_source=8c2188875cca12b9d05a2be055e950e4"
+                        },
+                        {
+                          "title": "Mac最强效率软件，没有之一：Raycast_哔哩哔哩_bilibili",
+                          "url": "https://www.bilibili.com/video/BV15p4y1w7AV/?spm_id_from=333.337.search-card.all.click&vd_source=8c2188875cca12b9d05a2be055e950e4"
+                        },
+                        {
+                          "title": "脱口秀和Ta的朋友们第20240904期完整版_2024综艺免费在线观看_AKB影院",
+                          "url": "https://www.akb.cc/play-132216-4-12/"
+                        },
+                        {
+                          "title": "Mtime时光网：让电影遇见生活",
+                          "url": "http://www.mtime.com/"
+                        },
+                        {
+                          "title": "第4期：阎鹤祥一句话“损”郭德纲郭麒麟？_综艺_高清完整版视频在线观看_腾讯视频",
+                          "url": "https://v.qq.com/x/cover/mzc00200vhqfkji/h4100z6eatx.html"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "有效帮助",
+              "children": [
+                {
+                  "title": "【软件安装攻略】office 激活辅助填写KMS|KMS查询网站 #PPT",
+                  "url": "https://www.kms.pub/rank.html"
+                },
+                {
+                  "title": "一键激活windows系统和office软件,Office软件安装,KMS激活",
+                  "url": "https://kms.cx/"
+                }
+              ]
+            },
+            {
+              "title": "搜索：面板 - Quicker",
+              "url": "https://getquicker.net/Search?keyword=%E9%9D%A2%E6%9D%BF&t=SharedAction&p=3"
+            },
+            {
+              "title": "Releases · kando-menu/kando · GitHub",
+              "url": "https://github.com/kando-menu/kando/releases"
+            },
+            {
+              "title": "发现更多精彩视频 - 抖音搜索",
+              "url": "https://www.douyin.com/search/%E5%85%8D%E8%B4%B9%E9%9F%B3%E9%A2%91%E7%BF%BB%E8%AF%91?aid=bec09ed8-9a93-497e-ab29-dd45ad45d6e1&modal_id=7542400954973441299&type=general&ug_source=pc_liangxiang_01"
+            },
+            {
+              "title": "GitHub - jianchang512/pyvideotrans: Translate the video from one language to another and embed dubbing & subtitles. · GitHub",
+              "url": "https://github.com/jianchang512/pyvideotrans"
+            },
+            {
+              "title": "抠图 - by 李考凡 - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=c29b3a9f-6609-4102-1723-08dd58cd3360"
+            },
+            {
+              "title": "鲜艺AI抠图-不收费不联网的AI抠图工具",
+              "url": "https://kt.94xy.com/"
+            },
+            {
+              "title": "动作 - Adobe Photoshop - - Quicker",
+              "url": "https://getquicker.net/Exe/33/Actions?order=updateTimeDesc&p=7"
+            },
+            {
+              "title": "Bitwarden填充 - by 1ksetting - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=bc92ca8a-e9a3-409d-d4ec-08d9e5288b5c"
+            },
+            {
+              "title": "花瓣'去'水印新版 - by 爱吃馍的小张 - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=7bf8265a-8f58-438e-e36a-08de5e765ac6"
+            },
+            {
+              "title": "Seelen UI 资源 — 主题、小部件和壁纸 | Seelen",
+              "url": "https://seelen.io/zh-CN/resources"
+            },
+            {
+              "title": "Pogget | 轻量强大的文件收纳管理工具",
+              "url": "https://pogget.vilinko.com/"
+            },
+            {
+              "title": "超级面板 - by 王文铖 - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed"
+            },
+            {
+              "title": "下载专区-FC Online足球在线官方网站-腾讯游戏-热爱新生",
+              "url": "https://fco.qq.com/web201802/down.shtml"
+            },
+            {
+              "title": "Mods - Windhawk",
+              "url": "https://windhawk.net/mods"
+            },
+            {
+              "title": "InfiniCLOUD | All-In-One Cloud Storage | Get 20GB Free",
+              "url": "https://infini-cloud.net/en/"
+            },
+            {
+              "title": "侧边书签工作台 - 书签、阅读、笔记与标签页",
+              "url": "https://bookmarks.mengxianglong.com/"
+            },
+            {
+              "title": "搜索结果 - 大眼仔旭",
+              "url": "https://www.dayanzai.me/?s=%E4%B9%A6%E7%AD%BE"
+            },
+            {
+              "title": "发现更多精彩视频 - 抖音搜索",
+              "url": "https://www.douyin.com/jingxuan/search/%E4%B9%A6%E7%AD%BE%E6%8B%96%E6%8B%BD?aid=e8bc3cd1-4660-4d2f-8519-aa92bb8117ad&modal_id=7645694658912366470&type=general"
+            }
+          ]
+        },
+        {
+          "title": "",
+          "url": "https://separator.site/dot-black-1768733587117"
+        },
+        {
+          "title": "稍后再看",
+          "children": [
+            {
+              "title": "学信档案",
+              "url": "https://my.chsi.com.cn/archive/gdjy/check/show.action?from=xj"
+            },
+            {
+              "title": "DataV.GeoAtlas地理小工具系列",
+              "url": "https://datav.aliyun.com/portal/school/atlas/area_selector"
+            },
+            {
+              "title": "NB Map",
+              "url": "https://www.nbcharts.com/map/map.php?loginSuccess=true"
+            },
+            {
+              "title": "软件面板V4 - by zdf153 - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=4f2050ef-4c0c-4a37-eb21-08ddcb62c590"
+            },
+            {
+              "title": "Alt移动窗口 - by li1qqq - 动作信息 - Quicker",
+              "url": "https://getquicker.net/Sharedaction?code=e873ab09-0071-4beb-e468-08dd86ae7f9a"
+            },
+            {
+              "title": "搜索：应用 - Quicker",
+              "url": "https://getquicker.net/Search?keyword=%E5%BA%94%E7%94%A8&t=SharedAction&p=6"
+            },
+            {
+              "title": "动作 - Microsoft PowerPoint - - Quicker",
+              "url": "https://getquicker.net/Exe/27/Actions"
+            },
+            {
+              "title": "你要小心了，这篇PPT教程会把你掰弯！",
+              "url": "https://mp.weixin.qq.com/s/U6esBYLldf27UtiYzve7bA"
+            },
+            {
+              "title": "手把手彻底学会 Agent Skills！【小白教程】_哔哩哔哩_bilibili",
+              "url": "https://www.bilibili.com/video/BV1G3FNznEiS/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-9shrk.1770176176227.21&vd_source=8c2188875cca12b9d05a2be055e950e4"
+            }
+          ]
+        },
+        {
+          "title": "",
+          "url": "https://separator.site/star-black-1768733163061"
+        },
+        {
+          "title": "自制合集",
+          "children": [
+            {
+              "title": "关注自媒体主页",
+              "children": [
+                {
+                  "title": "PPT类",
+                  "children": [
+                    {
+                      "title": "不坑老师的个人空间-不坑老师个人主页-哔哩哔哩视频",
+                      "url": "https://space.bilibili.com/293948130?spm_id_from=333.788.upinfo.head.click"
+                    },
+                    {
+                      "title": "黑白间设计的抖音 - 抖音",
+                      "url": "https://www.douyin.com/user/MS4wLjABAAAA_u-5rcJZLR4w_AONbwBR0KU-meW4ObYqxBUNuMYd5k4?from_tab_name=main&vid=7520154921811889423"
+                    }
+                  ]
+                },
+                {
+                  "title": "AI类",
+                  "children": [
+                    {
+                      "title": "俗人六哥_Ai实体赋能的抖音 - 抖音",
+                      "url": "https://www.douyin.com/user/MS4wLjABAAAAx7TL_m_OaLu-4pSt7b__IGVxmAbXZWMNDzM6UTdfOeA?from_tab_name=main&vid=7567698143773494571"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "视频号答疑",
+              "children": [
+                {
+                  "title": "大刘（咨询请说明问题）的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAAFtMbDVcVT96Gl93G2hbDZWVbXDWveVRnz1VIJxjWjC_g79Gtrr_ItLqJpLpfMITa"
+                }
+              ]
+            },
+            {
+              "title": "家电参考视频",
+              "children": [
+                {
+                  "title": "刘老师讲家电的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAArB-m06hmsdjICDjleUroXtuESude4liGJ5HsuNDhnxKKAwhAuyQrYlZcMDCyQ5RO?from_tab_name=main"
+                },
+                {
+                  "title": "姐妹超市小时达的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAAPqcXaf7g1rn9AOGXWC1KIGnWKXlC2oxLwzmh3LaRtz7sb5skYNzvWNqmzCB-4x5V?from_tab_name=main&is_full_screen=0&vid=7547989492309773620"
+                },
+                {
+                  "title": "海尔达腾家电甄选的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAASzBbrKAh5PVeyA_NxH-6ANTeAxIIW7yagqO6uPpjXU0V7XKCeQIblrdVnqjIZ8KH?from_tab_name=main"
+                },
+                {
+                  "title": "卡萨帝城市旗舰店（高新万达3楼店）的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAAKS1RE6qQbMF0oAnNM_GOOYzYjoKrpVXrKMTOcIgFD2WdluJJEKnO-4Nwt0a0jnut?from_tab_name=main&relation=0&vid=7531702962230398244"
+                },
+                {
+                  "title": "在火锅店的小向的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAAnwyiQ_A5RPKAMYfQc1cRJ4K38hsePIxMmLnWCRXtEAEH6SNiPbMBYapDQzvLudwX?from_tab_name=main"
+                },
+                {
+                  "title": "恒飞三联家电的抖音 - 抖音",
+                  "url": "https://www.douyin.com/user/MS4wLjABAAAAccS0abldQN1gVdQMMz_wga5eDpvFVHnw7QTREWjSCpcjAUzpW7-muFATCm4Zo-D2?from_tab_name=main"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Markly",
+          "children": [
+            {
+              "title": "AI 智能书签管理工具 | Markly",
+              "url": "https://markly.sinan.host/zh/"
+            }
+          ]
+        },
+        {
+          "title": "祭伟健-26.05.23",
+          "children": [
+            {
+              "title": "工作区",
+              "children": [
+                {
+                  "title": "PPT专区",
+                  "children": [
+                    {
+                      "title": "AboutPPT导航 | PPT演示设计网址导航",
+                      "url": "https://www.aboutppt.com/"
+                    },
+                    {
+                      "title": "微软官方PPT模板下载- 热门全新PPT模板完整下载- OfficePLUS (officeplus.cn)",
+                      "url": "https://www.officeplus.cn/PPT/template/"
+                    },
+                    {
+                      "title": "PPT世界 - 你感兴趣的PPT，都在PPT世界！",
+                      "url": "https://www.pptx.cn/"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "其他收藏夹",
+              "children": [
+                {
+                  "title": "小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario",
+                  "url": "https://www.yikm.net/"
+                },
+                {
+                  "title": "速影TV - 免费快速在线电影网",
+                  "url": "https://91suying.com/"
+                },
+                {
+                  "title": "少数派 - 高效工作，品质生活",
+                  "url": "https://sspai.com/"
+                },
+                {
+                  "title": "Topbook | 高效生活视频书",
+                  "url": "https://topbook.cc/overview"
+                },
+                {
+                  "title": "无解搜_全球最全的垂直搜索引擎网站",
+                  "url": "http://wujiesou.com/"
+                },
+                {
+                  "title": "动作库 - Quicker",
+                  "url": "https://getquicker.net/Share"
+                },
+                {
+                  "title": "全网视频VIP解析、免费在线观看 - 牛逼VIP解析",
+                  "url": "http://www.nbvip.cc/"
+                },
+                {
+                  "title": "War3TeD_War3TeD直播间259057_魔兽争霸直播_斗鱼 - 每个人的直播平台",
+                  "url": "https://www.douyu.com/88170?dyshid=0-4485acf44a1174e60379c80f00051701&dyshci=55"
+                },
+                {
+                  "title": "quicker",
+                  "children": [
+                    {
+                      "title": "星云影院-最新高清电影-电视剧免费在线观看",
+                      "url": "http://g.yikezhuji.com/"
+                    },
+                    {
+                      "title": "天狼影院-2023手机影视大全,免费电影网,高清MP4影院",
+                      "url": "https://www.jiujusz.com/"
+                    },
+                    {
+                      "title": "磁力熊 - 豆瓣高分电影1080P下载",
+                      "url": "https://www.cilixiong.pro/?ref=tools.voidke.com"
+                    },
+                    {
+                      "title": "PlainProxies.com - Free Web Proxy",
+                      "url": "https://plainproxies.com/resources/free-web-proxy"
+                    },
+                    {
+                      "title": "书籍检索",
+                      "url": "http://121.43.104.123/ssbooks/"
+                    }
+                  ]
+                },
+                {
+                  "title": "在线观看盒子里的猫 第20240526期_大陆综艺-努努影院",
+                  "url": "https://www.longdiwang.com/news/zongyi102272-1-40.html"
+                },
+                {
+                  "title": "反算贷款利率计算器2024 反推反算房贷利率计算器 - 贷款计算器2024年最新版",
+                  "url": "http://www.daikuanjisuanqi.cc/jisuanqi/getrate.aspx"
+                },
+                {
+                  "title": "DJI 大疆学堂",
+                  "url": "https://app-h5.dji.com/ZGppLWdvLT/index.html#/"
+                },
+                {
+                  "title": "围炉Go - 游戏怀旧灌水，风渡平生友",
+                  "url": "https://www.wlgooo.com/"
+                },
+                {
+                  "title": "电影",
+                  "url": "https://docs.qq.com/sheet/DSnlGR3JnQUxwZ05k?tab=BB08J2"
+                }
+              ]
+            },
+            {
+              "title": "收藏夹栏",
+              "children": [
+                {
+                  "title": "历史记录",
+                  "url": "edge://history/all"
+                },
+                {
+                  "title": "书签",
+                  "url": "edge://favorites/"
+                },
+                {
+                  "title": "",
+                  "url": "https://separator.site/doublepipe-black-1768733128847"
+                },
+                {
+                  "title": "常用直达",
+                  "children": [
+                    {
+                      "title": "quicker",
+                      "children": [
+                        {
+                          "title": "下载记录",
+                          "url": "edge://downloads/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "临时收藏",
+                  "children": [
+                    {
+                      "title": "Microsoft Edge 加载项-浏览器插件官网下载",
+                      "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "书签",
+          "url": "chrome://bookmarks/"
         }
       ]
+    },
+    "root1": {
+      "title": "其他收藏夹",
+      "children": []
+    },
+    "root2": {
+      "title": "工作区",
+      "children": []
     }
   }
 }
