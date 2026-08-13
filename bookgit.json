@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-08-13T01:39:08.505Z",
+  "exported_at": "2026-08-13T03:39:03.139Z",
   "roots": {
     "root0": {
       "title": "收藏夹栏",
@@ -1468,6 +1468,10 @@
         {
           "title": "书签",
           "url": "chrome://bookmarks/"
+        },
+        {
+          "title": "小红书 - 你的生活兴趣社区",
+          "url": "https://www.xiaohongshu.com/explore"
         }
       ]
     },
