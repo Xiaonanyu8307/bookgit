@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-08-14T03:39:03.456Z",
+  "exported_at": "2026-08-14T07:39:04.931Z",
   "roots": {
     "root0": {
       "title": "收藏夹栏",
@@ -307,6 +307,22 @@
             {
               "title": "全国旅游监管服务平台",
               "url": "https://mr.mct.gov.cn/"
+            },
+            {
+              "title": "我把 Obsidian 插件做到能直接发微信草稿箱了，这次又补上了 BRAT 安装和移动端预览_哔哩哔哩_bilibili",
+              "url": "https://www.bilibili.com/video/BV1VVwJzAEat/?spm_id_from=333.337.search-card.all.click&vd_source=3b0d99ceffc5eef294391c5dd6c6bf39"
+            },
+            {
+              "title": "obsidian brat-哔哩哔哩_bilibili",
+              "url": "https://search.bilibili.com/all?keyword=obsidian+brat&from_source=web_search"
+            },
+            {
+              "title": "❚❚ 荒漠上行走 - 亚森",
+              "url": "chrome-extension://pbdhfacofaobbfogdolpioimffpcmcmp/listen1.html"
+            },
+            {
+              "title": "TfTHacker/obsidian42-brat: BRAT - Beta Reviewer's Auto-update Tool for Obsidian.",
+              "url": "https://github.com/TfTHacker/obsidian42-brat"
             }
           ]
         },
