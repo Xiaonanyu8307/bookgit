@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-08-14T07:39:04.931Z",
+  "exported_at": "2026-08-14T09:39:06.313Z",
   "roots": {
     "root0": {
       "title": "收藏夹栏",
@@ -372,6 +372,10 @@
             {
               "title": "首页",
               "url": "https://c-dy.exam-sp.com/dy2026/202606250932239414272503"
+            },
+            {
+              "title": "Obsidian 发布助手 · 使用指南 | David Lam",
+              "url": "https://xiaoweibox.top/obsidian-publisher/guide#wechat-api"
             }
           ]
         },
